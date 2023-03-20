@@ -29,6 +29,17 @@
 
 ## OUTPUT
 
+![out1](https://user-images.githubusercontent.com/127816726/226408685-7caf462f-0603-4ccc-832e-bed9bcee3b56.png)
+
+![out2](https://user-images.githubusercontent.com/127816726/226408712-0977876e-83f4-4519-8f6a-a942e2bf6782.png)
+
+![out3](https://user-images.githubusercontent.com/127816726/226408729-e0b59c45-335c-476e-b95c-c7ad0cbfe0bd.png)
+
+
+
+
+
+
 
 ## RESULT
   The basic commands in networking are executed successfully.
